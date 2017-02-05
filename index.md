@@ -7,7 +7,7 @@ Our first meetup is coming soon!
 
 - [website on meetup.com](https://www.meetup.com/Berlin-Music-Information-Retrieval-Meetup/)
 
-<!-- - [google group]() -->
+- [google group](https://groups.google.com/forum/#!forum/berlin-mir-meetup)
 
 <!-- ## Slides from Past Meetups -->
 
@@ -16,9 +16,9 @@ Our first meetup is coming soon!
 
 ## Contact Us
 
-<!-- You can reach the group using this mailing list -->
-
 This Meetup is organized by a few people in the Berlin area, from both
 industry and academia.
+
+You can reach the group using the mailing list of our [google group](https://groups.google.com/forum/#!forum/berlin-mir-meetup).
 
 <!-- list here? -->
