@@ -7,13 +7,47 @@ Our first meetup is coming soon!
 
 - [website on meetup.com](https://www.meetup.com/Berlin-Music-Information-Retrieval-Meetup/)
 
-- [google group](https://groups.google.com/forum/#!forum/berlin-mir-meetup)
-
 <!-- ## Slides from Past Meetups -->
 
-<!-- one day ... -->
-
 ## Events
+
+### 2017-04-24: Harmonic Mixing & Rhythmic Similarity
+
+Monday, April 24, 2017
+
+7:30 PM, hosted by [Audio Communication Group of TU Berlin](http://www.ak.tu-berlin.de/menue/fachgebiet_audiokommunikation/parameter/en/)
+
+[Marchstraße 8, 10587 Berlin, Berlin](https://maps.google.com/maps?f=q&hl=en&q=Marchstra%C3%9Fe+8%2C+10587+Berlin%2C+Berlin%2C+de) - [lab](http://www.hybrid-plattform.org/ueber-uns/hybrid-lab/)
+
+For the second edition of the Music Information Retrieval meetup, the
+Audio Communication Group of TU Berlin is hosting us in the
+HybridLab.
+
+#### Roman Gebhardt: Psychoacoustic Approaches to Harmonic Mixing
+
+Roman Gebhardt (TU Berlin) will give a talk on his works on harmonic
+analysis of music based on psychoacoustic principles. He will present
+a system for automatic harmonic adjustment of two or more pieces of
+music that builds upon the theory of roughness. As a counterpart to
+well-known beat synchronization, this motivates synchronization for
+music mixing in the spectral domain to maximize the musical consonance
+of a mix. He will as well give insight into a perceptually based
+filtering process for chroma-analysis of musical audio that has proven
+successful in key detection tasks and outline the idea of an extension
+of classic key detection to root notes.
+
+#### Nico Lehrbach: Measuring Rhythmic Similarity of Music Excerpts
+
+Nico Lehrbach (TU Berlin) will present his work investigating the
+rhythmic similarity estimation of short music excerpts. Rhythmic
+similarity is seen as one component of general music
+similarity. Derived from existing measures of music similarity like
+the Rhythmic Patterns and the Onset Patterns, he presents a new
+approach, the Bar Patterns. A survey was carried out in order to gain
+a quantitative, empirical ground truth of the rhythmic similarity of
+short music excerpts presented to the participants. These empirical
+data indicate the general possibility of measuring rhythmic similarity
+and is taken as a base to compare the algorithmic approaches.
 
 
 ### 2017-03-20: Kick-off with Meinard Müller
