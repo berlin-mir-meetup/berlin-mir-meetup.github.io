@@ -11,6 +11,45 @@ Our first meetup is coming soon!
 
 ## Events
 
+### 2017-06-26: Source separation and Sample Detection
+
+Monday, June 26, 2017
+
+6:30 PM, hosted by [Ableton](https://www.ableton.com)
+[Schönhauser Allee 6-7, Berlin](https://www.google.com/maps?f=q&hl=en&q=Sch%C3%B6nhauser+Allee+6-7,+Berlin,+de)
+
+
+For the fourth Berlin MIR meetup, we're happy to announce the
+following speakers:
+
+### Gerald Schuller: Multi-Channel Source Separation using Independent Component Analysis
+
+Gerald Schuller is a professor at Technical University Ilmenau, where
+he heads the Applied Media Systems group and is associated with the
+Fraunhofer Institute for Digital Media Technology (IDMT). His research
+focusses on audio and signal processing, in particular audio and
+speech coding, filter banks, music information retrieval, and source
+separation. Gerald will present recent works on multi-channel source
+separation using independent component analysis (ICA).
+
+### Alexander Lerch: Drum Transcription and Sample Detection with Non-Negative Matrix Factorization
+
+Non-Negative Matrix Factorization (NMF) is a popular and comparably
+simple technique that has been successfully applied to MIR tasks such
+as pitch transcription and source separation. In this talk, we will
+discuss applying NMF to the task of transcribing drum events from
+polyphonic mixtures and to the task of detecting a snippet of a song
+(sample) in a new mix.
+
+Alexander Lerch is an assistant professor at Georgia Tech University
+and co-founder of zplane development, Berlin. Previously he was a
+lecturer at the audio communications department of the Technical
+University Berlin. His research focusses on music information
+retrieval and digital signal processing.
+
+
+
+
 ### 2017-04-24: Harmonic Mixing & Rhythmic Similarity
 
 Monday, April 24, 2017
