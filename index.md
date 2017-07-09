@@ -1,7 +1,6 @@
 ## Important Announcements
 
-Our first meetup is coming soon!
-[Join us on Monday, March 20th 2017!](https://www.meetup.com/Berlin-Music-Information-Retrieval-Meetup/events/237450476/)
+Next meetup: Monday, July 17, 2017
 
 ## Links
 
@@ -10,6 +9,72 @@ Our first meetup is coming soon!
 <!-- ## Slides from Past Meetups -->
 
 ## Events
+
+### 2017-07-17: Corpora for MIR Research & Computational Music Theory
+
+Monday, July 17, 2017
+
+7:30 PM, hosted by [CRCLR](https://crclr.org) - this meetup is
+supported by Aitokaiku: http://www.aitokaiku.com
+
+#### Xavier Serra: Creating and maintaining corpora for MIR research
+
+One of the biggest bottlenecks for the advancement of the research in
+MIR is the lack of very large and openly available corpora of music
+data, corpora with which to train and test machine learning models. In
+this presentation, I want to talk about this issue and about the
+initiatives in which my group is involved to tackle it. I will cover
+freesound.org and the recent effort to create
+the [FreesoundDataset](https://datasets.freesound.org). I will also
+describe our efforts in collaborating with MusicBrainz to create
+AcousticBrainz.org, a framework to crowdsource acoustic information
+for music tracks. Finally, I will talk about our research in CompMusic
+to develop [Dunya](http://dunya.compmusic.upf.edu), which comprises
+corpora of several music repertoires plus software tools, for the
+purpose of musicological research.
+
+Xavier Serra is Associate Professor of the Department of Information
+and Communication Technologies and Director of the Music Technology
+Group at the Universitat Pompeu Fabra in Barcelona. After a
+multidisciplinary academic education, he obtained a PhD in Computer
+Music from Stanford University in 1989 with a dissertation on the
+spectral processing of musical sounds that is considered a key
+reference in the field. His research interests cover the computational
+analysis, description, and synthesis of sound and music signals, with
+a balance between basic and applied research and approaches from both
+scientific/technological and humanistic/artistic
+disciplines. Dr. Serra is very active in fields of Audio Signal
+Processing, Sound and Music Computing, Music Information Retrieval and
+Computational Musicology at the local and international levels, being
+involved in the editorial board of a number of journals and
+conferences and giving lectures on current and future challenges of
+these fields. He was awarded an Advanced Grant from the European
+Research Council to carry out the project CompMusic aimed at promoting
+multicultural approaches in music information research. More info:
+https://www.upf.edu/web/xavier-serra
+
+
+#### Ryan Groves: Computational Music Theory: Working with Symbolic Data
+
+This talk will present an overview of methods that look to extract
+information from symbolic representations (such as digital
+scores). The tasks discussed will include pattern recognition (e.g.,
+melodic phrase detection), harmonic sequence analysis and melodic
+reduction.
+
+Ryan received his B.S. in Computer Science from UCLA, and continued on
+to complete a Master's in Music Technology from McGill University. As
+the former Director of R&D for Zya, he developed a musical messenger
+app that automatically sings your texts, called Ditty. Ditty won the
+Best Music App of 2015 by the Appy Awards. In 2016, his research in
+computational music theory was awarded the Best Paper of the most
+prominent music technology conference, ISMIR. With his new venture,
+Melodrive, he and his co-founding team of two PhDs in Music and AI are
+looking to build the world's best artificially intelligent composer,
+and to change the way music is experienced in video games and virtual
+environments.
+
+
 
 ### 2017-06-26: Source separation and Sample Detection
 
@@ -22,7 +87,7 @@ Monday, June 26, 2017
 For the fourth Berlin MIR meetup, we're happy to announce the
 following speakers:
 
-### Gerald Schuller: Multi-Channel Source Separation using Independent Component Analysis
+#### Gerald Schuller: Multi-Channel Source Separation using Independent Component Analysis
 
 Gerald Schuller is a professor at Technical University Ilmenau, where
 he heads the Applied Media Systems group and is associated with the
@@ -32,7 +97,7 @@ speech coding, filter banks, music information retrieval, and source
 separation. Gerald will present recent works on multi-channel source
 separation using independent component analysis (ICA).
 
-### Alexander Lerch: Drum Transcription and Sample Detection with Non-Negative Matrix Factorization
+#### Alexander Lerch: Drum Transcription and Sample Detection with Non-Negative Matrix Factorization
 
 Non-Negative Matrix Factorization (NMF) is a popular and comparably
 simple technique that has been successfully applied to MIR tasks such
