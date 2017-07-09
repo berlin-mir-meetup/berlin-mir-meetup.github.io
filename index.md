@@ -14,8 +14,10 @@ Next meetup: Monday, July 17, 2017
 
 Monday, July 17, 2017
 
-7:30 PM, hosted by [CRCLR](https://crclr.org) - this meetup is
-supported by Aitokaiku: http://www.aitokaiku.com
+7:30 PM, hosted by [CRCLR](https://crclr.org) -
+[map](https://maps.google.com/maps?f=q&hl=en&q=Rollbergstrasse+26%2C+12053+Neuk%C3%B6lln%2C+Berlin%2C+de)
+
+this meetup is supported by [Aitokaiku](http://www.aitokaiku.com)
 
 #### Xavier Serra: Creating and maintaining corpora for MIR research
 
