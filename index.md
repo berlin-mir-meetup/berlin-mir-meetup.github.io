@@ -1,6 +1,6 @@
 ## Important Announcements
 
-Next meetup: Monday, July 17, 2017
+Next meetup: Monday, September 18, 2017
 
 ## Links
 
@@ -9,6 +9,53 @@ Next meetup: Monday, July 17, 2017
 <!-- ## Slides from Past Meetups -->
 
 ## Events
+
+### 2017-09-18: Phase Reconstruction from Magnitude Spectrograms
+
+Monday, September 18, 2017
+
+6:30 PM, hosted by [Native Instruments](https://www.native-instruments.com/) -
+Schlesische Straße 29-30, 10997 Berlin
+[map](https://maps.google.com/maps?f=q&hl=en&q=Schlesische+Stra%C3%9Fe+29-30%2C+10997+Berlin%2C+de)
+
+
+#### Phase Reconstruction from Magnitude Spectrograms
+
+Phase reconstruction from magnitude spectrograms is an important
+pre-requisite for signal reconstruction in many audio processing
+applications. Among others, proper phase reconstruction can be
+beneficial for audio coding, speech enhancement, and source
+separation, i.e., whenever we process audio signals in the Short-time
+Fourier Transform domain. This talk covers the most relevant
+techniques, namely Phase-locked Vocoder, Phase Gradient Integration,
+Convex Optimization, and Iterative Phase Reconstruction, and discusses
+their advantages and drawbacks. Furthermore, I will point out some
+relationships between different methods and how relevant ideas spread
+across from distinct research directions. I will conclude this talk
+with some recommendations for the practical use of the investigated
+algorithms, especially focusing on music source separation.
+
+Christian Dittmar received the Diploma degree in electrical
+engineering from the Jena University of Applied Sciences, Jena,
+Germany, in 2003. Since summer 2014, he has been working toward the
+Ph.D. degree in the research group of M. Müller, International Audio
+Laboratories Erlangen, Germany. Before that, he had worked at the
+Fraunhofer Institute for Digital Media Technology (IDMT), Ilmenau,
+Germany. The institute is headed by Prof. K. Brandenburg, one of the
+co-inventors of the MP3 audio compression format. From 2006 to 2014,
+Christian Dittmar was the Head of the Semantic Music Technology
+Research Group, IDMT. Since 2012, he has been also the CEO and
+co-founder of the music technology start-up Songquito. In 2014, he
+received the AES Citation Award for his involvement in organizing the
+42th and 53th AES International Conference on Semantic Audio. In 2014,
+he was nominated as one of the 39 visionaries of the digital society
+in Germany by the Gesellschaft für Informatik. During the 2015
+HAMR@ISMIR hackathon, he received the Best Hack Award. He authored and
+coauthored a number of peer-reviewed papers on music information
+retrieval topics. His recent research interests include music
+information retrieval, audio signal processing, and music education
+applications.
+
 
 ### 2017-07-17: Corpora for MIR Research & Computational Music Theory
 
