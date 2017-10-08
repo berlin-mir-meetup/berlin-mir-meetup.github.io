@@ -10,6 +10,38 @@ Next meetup: Monday, September 18, 2017
 
 ## Events
 
+### 2017-10-16: Deep Learning for Music Recommendation and Generation
+
+Monday, October 16, 2017
+
+7:15 PM, hosted by [SoundCloud](https://www.soundcloud.com) -
+Rheinsberger Str. 76/77 10115, Berlin
+[map](https://maps.google.com/maps?f=q&hl=en&q=Rheinsberger+Str.+76%2F77+10115%2C+Berlin%2C+de)
+
+#### Sander Dieleman: Deep Learning for Music Recommendation and Generation
+
+The advent of deep learning has made it possible to extract high-level
+information from perceptual signals without having to specify manually
+and explicitly how to obtain it; instead, this can be learned from
+examples. This creates opportunities for automated content analysis of
+musical audio signals. In this talk, I will discuss how deep learning
+techniques can be used for audio-based music recommendation. I will
+also discuss my ongoing work on music generation in the raw waveform
+domain with WaveNet.
+
+Sander Dieleman is a Research Scientist at DeepMind in London, UK,
+where he has worked on the development of AlphaGo and WaveNet. He was
+previously a PhD student at Ghent University, where he conducted
+research on feature learning and deep learning techniques for learning
+hierarchical representations of musical audio signals. During his PhD
+he also developed the Theano-based deep learning library Lasagne and
+won solo and team gold medals respectively in Kaggle's "Galaxy Zoo"
+competition and the first National Data Science Bowl. In the summer of
+2014, he interned at Spotify in New York, where he worked on
+implementing audio-based music recommendation using deep learning on
+an industrial scale.
+
+
 ### 2017-09-18: Phase Reconstruction from Magnitude Spectrograms
 
 Monday, September 18, 2017
@@ -19,7 +51,7 @@ Schlesische Straße 29-30, 10997 Berlin
 [map](https://maps.google.com/maps?f=q&hl=en&q=Schlesische+Stra%C3%9Fe+29-30%2C+10997+Berlin%2C+de)
 
 
-#### Phase Reconstruction from Magnitude Spectrograms
+#### Christian Dittmar: Phase Reconstruction from Magnitude Spectrograms
 
 Phase reconstruction from magnitude spectrograms is an important
 pre-requisite for signal reconstruction in many audio processing
